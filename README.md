@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Steven.granada@hotmail.com**
 
-- ⚡ Fun fact **Me gusta mucho los video juegos, el futbol, la musica y sobre todo aprneder cosas nuevas**
+- ⚡ Fun fact **Me gusta mucho los video juegos, el futbol, la musica y sobre todo aprender cosas nuevas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
