@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrium Steven Granada Annear</h1>
-<h3 align="center">Soy un joven apasionado por el desarrollo fullstack y lenguajes como JavaScript, React Native, Python, y muchos mas. Vivo de Bogota, Colombia.
+<h3 align="center">Soy un joven apasionado por el desarrollo fullstack y lenguajes como JavaScript, React Native, Python, y muchos mas. Vivo en Bogota, Colombia.
 <br>En el año 2023 tome la decision de darle un giro a mi vida profesional, por lo tanto tome la decision de empezar a introducirme en el ambito prfesional de el desarrollo web y de software, que desde muy pequeño me gusto pero por ambitos economicos no pude empezar a estudiarlo y me fui por otro ambito profesional no muy lejos de la programacion como lo era el soporte de sistemas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stvstudio&label=Profile%20views&color=0e75b6&style=flat" alt="stvstudio" /> </p>
