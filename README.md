@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/annearsteven" target="blank"><img src="https://img.shields.io/twitter/follow/annearsteven?logo=twitter&style=for-the-badge" alt="annearsteven" /></a> </p>
 
-- 🌱 I’m currently learning **Lenguajes como: Php, Java, Klotin, Android Studio, Swift, Ruby, flutter, Python para AI. Herramientas UI como: Adobe XD, Famer, FlutterFlow, Sketch. Bases de datos como: Sql server, Firebase Frameworks como: Laravel, Spring boot, Vue, Angular, Xamarin, Node.js. Otras herramientas como: Blender, Photoshop avanzado, Illustrator, Adobe Xd, Premier Pro, Filmora, Cinema 4D, Spark Ar, After Effects, Unity, Unreal Engine. Idiomas como: Portugues, Ingles B2, Frances, Italiano, Japones, Aleman. Otras Carreras como: Diseño Visual, Marketing Digital, Desarrollo Blockchain, Desarrollo de Video Juegos**
+- 🌱 I’m currently learning **Lenguajes como: Php, Java, Klotin, Android Studio, Swift, Ruby, flutter, Python para AI.
+- Herramientas UI como: Adobe XD, Famer, FlutterFlow, Sketch.
+- Bases de datos como: Sql server, Firebase.
+- Frameworks como: Laravel, Spring boot, Vue, Angular, Xamarin, Node.js.
+- Otras herramientas como: Blender, Photoshop avanzado, Illustrator, Adobe Xd, Premier Pro, Filmora, Cinema 4D, Spark Ar, After Effects, Unity, Unreal Engine.
+- Idiomas como: Portugues, Ingles B2, Frances, Italiano, Japones, Aleman.
+- Otras Carreras como: Diseño Visual, Marketing Digital, Desarrollo Blockchain, Desarrollo de Video Juegos**
 
 - 💬 Ask me about **React, Javascript,Python, Django, Git, entre otros**
 
